@@ -1,0 +1,18 @@
+D:\YandexDisk\My Work\Work\File Container\File Container\bin\Debug\File Container.exe.config
+D:\YandexDisk\My Work\Work\File Container\File Container\bin\Debug\File Container.exe
+D:\YandexDisk\My Work\Work\File Container\File Container\bin\Debug\File Container.pdb
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File Container.csprojResolveAssemblyReference.cache
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File_Container.Properties.Resources.resources
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File Container.csproj.GenerateResource.Cache
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File Container.exe
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File Container.pdb
+D:\YandexDisk\My Work\Work\File Container\File Container\obj\Debug\File_Container.File_Container.resources
+C:\Users\Admin\Desktop\File Container\File Container\bin\Debug\File Container.exe.config
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File Container.exe
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File Container.pdb
+C:\Users\Admin\Desktop\File Container\File Container\bin\Debug\File Container.exe
+C:\Users\Admin\Desktop\File Container\File Container\bin\Debug\File Container.pdb
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File Container.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File_Container.File_Container.resources
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File_Container.Properties.Resources.resources
+C:\Users\Admin\Desktop\File Container\File Container\obj\Debug\File Container.csproj.GenerateResource.Cache
