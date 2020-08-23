@@ -1,0 +1,11 @@
+D:\Институт\3-й курс\ААС\ААС\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Институт\3-й курс\ААС\ААС\bin\Debug\ААС.exe
+D:\Институт\3-й курс\ААС\ААС\bin\Debug\ААС.pdb
+D:\Институт\3-й курс\ААС\ААС\obj\x86\Debug\ААС.exe
+D:\Институт\3-й курс\ААС\ААС\obj\x86\Debug\ААС.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\ААС\ААС\obj\x86\Debug\ААС.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\ААС\ААС\obj\x86\Debug\ААС.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\ААС\ААС\bin\Debug\ААС.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\ААС\ААС\bin\Debug\ААС.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Sum\ААС\obj\x86\Debug\ААС.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Sum\ААС\obj\x86\Debug\ААС.pdb
