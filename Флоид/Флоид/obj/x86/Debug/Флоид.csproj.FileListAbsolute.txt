@@ -1,0 +1,11 @@
+D:\Институт\3-й курс\Флоид\Флоид\bin\Debug\Флоид.exe
+D:\Институт\3-й курс\Флоид\Флоид\bin\Debug\Флоид.pdb
+D:\Институт\3-й курс\Флоид\Флоид\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Институт\3-й курс\Флоид\Флоид\obj\x86\Debug\Флоид.exe
+D:\Институт\3-й курс\Флоид\Флоид\obj\x86\Debug\Флоид.pdb
+H:\Флоид\Флоид\obj\x86\Debug\Флоид.exe
+H:\Флоид\Флоид\obj\x86\Debug\Флоид.pdb
+C:\Users\Admin\Desktop\Флоид\Флоид\obj\x86\Debug\Флоид.exe
+C:\Users\Admin\Desktop\Флоид\Флоид\obj\x86\Debug\Флоид.pdb
+C:\Users\Admin\Desktop\Флоид\Флоид\bin\Debug\Флоид.exe
+C:\Users\Admin\Desktop\Флоид\Флоид\bin\Debug\Флоид.pdb
