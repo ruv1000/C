@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Port_v2._0.dbConnection" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAABAABAAAIAAQAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Access Layer\dbConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Query" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACIAADAkAAAAAAAAAIAABQAAAAAgJACAAAA=</HashCode>
+      <FileName>Business Logic Layer\Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Program" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.AboutBox1" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>View Layer\AboutBox1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.FConnaction" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Port_v2._0.FConnaction.MyConnectionClass" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>View Layer\FConnaction.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABCAAACAAAADCAIEEAAAAAAAAAAgAAg=</HashCode>
+      <FileName>View Layer\FConnaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Info" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAASAAAACAAAgAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>View Layer\Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Port" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UEBIBABBACIEXJEyEAKPAQKjCIgl0AkChCgABFQAIQA=</HashCode>
+      <FileName>View Layer\Port.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABEAAAAQAAAAAAAAAAAAAEAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Port_v2._0.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAIAAAAAABAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,79 @@
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Port.sdf
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Debug\ru\Microsoft.SqlServer.Management.Utility.resources.dll
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache
+D:\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\bin\Debug\Port.sdf
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+C:\Users\Igor\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Info.resources
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.FConnaction.resources
+C:\Users\Admin\Desktop\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.FConnaction.resources
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Info.resources
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+D:\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache
+D:\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+D:\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+D:\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.FConnaction.resources
+D:\YandexDisk\My Work\Институт\IV курс\Лабы\БД\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Info.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe.config
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.exe
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.pdb
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\bin\Debug\Port v2.0.exe
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\bin\Debug\Port v2.0.pdb
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\bin\Debug\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csprojResolveAssemblyReference.cache
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.FConnaction.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.AboutBox1.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Info.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Port.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port_v2._0.Properties.Resources.resources
+D:\YandexDisk\My Work\Институт\IV курс\Курсовой Мирошнеченко\Port v2.0\Port v2.0\obj\x86\Debug\Port v2.0.csproj.GenerateResource.Cache

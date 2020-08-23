@@ -1,0 +1,15 @@
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Port.sdf
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Port v2.0.exe.config
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Port v2.0.exe
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Port v2.0.pdb
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Microsoft.SqlServer.DmfSqlClrWrapper.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\bin\Release\ru\Microsoft.SqlServer.Management.Utility.resources.dll
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port_v2._0.AboutBox1.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port_v2._0.Port.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port_v2._0.Properties.Resources.resources
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port v2.0.csproj.GenerateResource.Cache
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port v2.0.exe
+C:\Users\Admin-PC\Desktop\Port v2.0\Port v2.0\obj\x86\Release\Port v2.0.pdb
