@@ -1,0 +1,13 @@
+D:\Институт\3-й курс\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.exe
+D:\Институт\3-й курс\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.pdb
+D:\Институт\3-й курс\Динам. Сnk\Динам. Сnk\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Институт\3-й курс\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.exe
+D:\Институт\3-й курс\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.pdb
+C:\Users\Admin\Desktop\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.exe
+C:\Users\Admin\Desktop\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.pdb
+C:\Users\Admin\Desktop\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.exe
+C:\Users\Admin\Desktop\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Динам. Сnk\Динам. Сnk\obj\x86\Debug\Динам.Сnk.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Динам. Сnk\Динам. Сnk\bin\Debug\Динам.Сnk.pdb
