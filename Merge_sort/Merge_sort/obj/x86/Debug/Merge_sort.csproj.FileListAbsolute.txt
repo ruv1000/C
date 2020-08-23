@@ -1,0 +1,10 @@
+c:\users\влад\documents\visual studio 2010\Projects\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe
+c:\users\влад\documents\visual studio 2010\Projects\Merge_sort\Merge_sort\bin\Debug\Merge_sort.pdb
+c:\users\влад\documents\visual studio 2010\Projects\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.exe
+c:\users\влад\documents\visual studio 2010\Projects\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.pdb
+C:\Users\Влад\documents\visual studio 2010\Projects\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.exe
+C:\Users\Admin\Desktop\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.pdb
+C:\Users\Admin\Desktop\Merge_sort\Merge_sort\bin\Debug\Merge_sort.exe
+C:\Users\Admin\Desktop\Merge_sort\Merge_sort\bin\Debug\Merge_sort.pdb
+C:\Users\Admin\Desktop\Merge_sort\Merge_sort\obj\x86\Debug\Merge_sort.csprojResolveAssemblyReference.cache
