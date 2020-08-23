@@ -1,0 +1,40 @@
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\bin\Debug\Calcul.exe
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\bin\Debug\Calcul.pdb
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\ResolveAssemblyReference.cache
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\Calcul.Form1.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\Calcul.exe
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Debug\Calcul.pdb
+G:\Calcul\Calcul\obj\Debug\Calcul.exe
+G:\Calcul\Calcul\obj\Debug\Calcul.pdb
+G:\Calcul\Calcul\obj\Debug\ResolveAssemblyReference.cache
+G:\Calcul\Calcul\obj\Debug\Calcul.Form1.resources
+G:\Calcul\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+G:\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Calcul\Calcul\bin\Debug\Calcul.exe
+G:\Calcul\Calcul\bin\Debug\Calcul.pdb
+H:\Calcul\Calcul\obj\Debug\Calcul.exe
+H:\Calcul\Calcul\obj\Debug\Calcul.pdb
+H:\Calcul\Calcul\bin\Debug\Calcul.exe
+H:\Calcul\Calcul\bin\Debug\Calcul.pdb
+H:\Calcul\Calcul\obj\Debug\ResolveAssemblyReference.cache
+H:\Calcul\Calcul\obj\Debug\Calcul.Form1.resources
+H:\Calcul\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+H:\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Calcul\Calcul\obj\Debug\Calcul.AboutBox1.resources
+H:\Calcul\Calcul\obj\Debug\Calcul.Справка.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.exe
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.pdb
+C:\Users\Администратор\Desktop\Calcul\Calcul\bin\Debug\Calcul.exe
+C:\Users\Администратор\Desktop\Calcul\Calcul\bin\Debug\Calcul.pdb
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.AboutBox1.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.Form1.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.Справка.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Debug\GenerateResource-ResGen.write.1.tlog

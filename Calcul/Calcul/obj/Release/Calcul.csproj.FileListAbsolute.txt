@@ -1,0 +1,54 @@
+C:\Users\Администратор\Desktop\Calcul\Calcul\bin\Release\Calcul.exe
+C:\Users\Администратор\Desktop\Calcul\Calcul\bin\Release\Calcul.pdb
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.AboutBox1.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.Form1.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.Справка.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.exe
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\Calcul.pdb
+C:\Users\Администратор\Desktop\Calcul\Calcul\bin\Release\Calcul.exe.config
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\GenerateResource.write.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.pdb
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\bin\Release\Calcul.exe
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\bin\Release\Calcul.pdb
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\ResolveAssemblyReference.cache
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.AboutBox1.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.Form1.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.Справка.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.Properties.Resources.resources
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\GenerateResource.read.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\GenerateResource.write.1.tlog
+D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul\obj\Release\Calcul.exe
+I:\Calcul\Calcul\obj\Release\Calcul.exe
+I:\Calcul\Calcul\obj\Release\Calcul.pdb
+I:\Calcul\Calcul\bin\Release\Calcul.exe
+I:\Calcul\Calcul\bin\Release\Calcul.pdb
+I:\Calcul\Calcul\obj\Release\ResolveAssemblyReference.cache
+I:\Calcul\Calcul\obj\Release\Calcul.AboutBox1.resources
+I:\Calcul\Calcul\obj\Release\Calcul.Form1.resources
+I:\Calcul\Calcul\obj\Release\Calcul.Справка.resources
+I:\Calcul\Calcul\obj\Release\Calcul.Properties.Resources.resources
+I:\Calcul\Calcul\obj\Release\GenerateResource-ResGen.read.1.tlog
+I:\Calcul\Calcul\obj\Release\GenerateResource.read.1.tlog
+I:\Calcul\Calcul\obj\Release\ResGen.read.1.tlog
+I:\Calcul\Calcul\obj\Release\GenerateResource-ResGen.write.1.tlog
+I:\Calcul\Calcul\obj\Release\GenerateResource.write.1.tlog
+I:\Calcul\Calcul\obj\Release\ResGen.write.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\ResGen.read.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Администратор\Desktop\Calcul\Calcul\obj\Release\ResGen.write.1.tlog
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\bin\Release\Calcul.exe.config
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.exe
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.pdb
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\bin\Release\Calcul.exe
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\bin\Release\Calcul.pdb
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.AboutBox1.resources
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.Form1.resources
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.Справка.resources
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.Properties.Resources.resources
+D:\YandexDisk\My Work\Институт\II курс\Лабы на cдачю\СТП\Calcul\Calcul\obj\Release\Calcul.csproj.GenerateResource.Cache
