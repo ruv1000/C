@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calcul">
+</Property><Property Name="Файл решения" Value="D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul.sln">
+</Property><Property Name="Файл параметров пользователя" Value="D:\Институт\2-й курс\2 семестр\СТП\Calcul\Calcul.suo">
+</Property><Property Name="Date" Value="18 марта 2012 г.">
+</Property><Property Name="Time" Value="21:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calcul.sln" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Calcul.suo" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul.suo">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Calcul.csproj" Description="Успешно создана резервная копия файла проекта: D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Calcul.csproj">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Calcul.csproj.user" Description="Резервная копия проекта успешно создана как D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Calcul.csproj.user">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Form1.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Form1.Designer.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Program.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Program.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Properties\Settings.settings" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Form1.resx" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Properties\Resources.resx" Description="Успешно создана резервная копия файла D:\Институт\2-й курс\2 семестр\СТП\Calcul\Backup\Calcul\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Calcul.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Calcul" Source="Calcul\Calcul.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calcul.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Calcul.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calcul" Source="Calcul\Calcul.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
