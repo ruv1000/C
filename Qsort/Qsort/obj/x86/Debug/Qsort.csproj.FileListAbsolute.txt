@@ -1,0 +1,10 @@
+c:\users\влад\documents\visual studio 2010\Projects\Qsort\Qsort\bin\Debug\Qsort.exe
+c:\users\влад\documents\visual studio 2010\Projects\Qsort\Qsort\bin\Debug\Qsort.pdb
+c:\users\влад\documents\visual studio 2010\Projects\Qsort\Qsort\obj\x86\Debug\Qsort.exe
+c:\users\влад\documents\visual studio 2010\Projects\Qsort\Qsort\obj\x86\Debug\Qsort.pdb
+C:\Users\Влад\documents\visual studio 2010\Projects\Qsort\Qsort\obj\x86\Debug\Qsort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Qsort\Qsort\obj\x86\Debug\Qsort.exe
+C:\Users\Admin\Desktop\Qsort\Qsort\obj\x86\Debug\Qsort.pdb
+C:\Users\Admin\Desktop\Qsort\Qsort\bin\Debug\Qsort.exe
+C:\Users\Admin\Desktop\Qsort\Qsort\bin\Debug\Qsort.pdb
+C:\Users\Admin\Desktop\Qsort\Qsort\obj\x86\Debug\Qsort.csprojResolveAssemblyReference.cache
