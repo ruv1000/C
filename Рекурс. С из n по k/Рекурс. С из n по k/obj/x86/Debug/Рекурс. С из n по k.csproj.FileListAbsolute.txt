@@ -1,0 +1,13 @@
+D:\Институт\3-й курс\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.exe
+D:\Институт\3-й курс\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.pdb
+D:\Институт\3-й курс\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Институт\3-й курс\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.exe
+D:\Институт\3-й курс\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.pdb
+C:\Users\Admin\Desktop\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.exe
+C:\Users\Admin\Desktop\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.pdb
+C:\Users\Admin\Desktop\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.exe
+C:\Users\Admin\Desktop\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Рекурс. С из n по k\Рекурс. С из n по k\obj\x86\Debug\Рекурс.С_из_n_по_k.pdb
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.exe
+D:\YandexDisk\My Work\Для учебы\III курс\Лабы на сдачу\ААС\Рекурс. С из n по k\Рекурс. С из n по k\bin\Debug\Рекурс.С_из_n_по_k.pdb
